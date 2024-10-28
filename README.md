@@ -23,7 +23,7 @@ This project analyzes pesticide poisoning patterns across Brazil, identifying di
     ```
 
 3. **Run the Script**:
-    Open `scripts/clustering_heatmap_analysis.R` in R or RStudio and execute the script.
+    Open `scripts/identification_distinct_pesticide_poisoning_patterns_Brazil_cluster_analysis_script.R` in R or RStudio and execute the script.
 
 ## Outputs
 - **Table1.docx**: Summary table by region
